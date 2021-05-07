@@ -1,2 +1,3 @@
-# news_and_weather_app
-News data is provided by VNExpress.net and OpenweatherMap
+INT3120 1
+
+News and weather app
